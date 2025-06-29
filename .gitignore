@@ -1,0 +1,13 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore Hugging Face cache and model checkpoints
+output/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+
+# System files
+.DS_Store
+.ipynb_checkpoints/
